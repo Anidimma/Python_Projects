@@ -1,0 +1,21 @@
+
+Problem Description:
+A wine bottling company has a lab where they test wine quality.
+The company wants to be able to predict the marketability of any new wine sample they get from a vineyard before they commit to marketing it.
+Create a machine learning model to predict the quality score of a given wine sample
+
+Input Features
+   1: fixed acidity*
+   2: volatile acidity*
+   3: citric acid*
+   4: residual sugar*
+   5: chlorides*
+   6: free sulfur dioxide*
+   7: total sulfur dioxide*
+   8: density*
+   9: pH*
+   10: sulphates*
+   11: alcohol
+   
+Output variable:
+   Quality (score between 0 and 10)
