@@ -10,6 +10,7 @@ With the rapid development of telecommunication industry, the service providers 
 
 ## Installation
 
+
 User the package manager [pip](https://pip.pypa.io/en/stable/) to install [pycaret](https://pycaret.org/)
 
 ```bash
