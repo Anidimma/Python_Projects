@@ -2,13 +2,13 @@
 
 
 <p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/776/776443.svg?token=exp=1619122772~hmac=43f9df0d34e0ac78e516783fffc8bc60" width="200"> </p>
-<h1 align="center"> RESTURANT DESCRIPTION WEB SCRAPPING PROJECT </h1>
+<h1 align="center"> RESTUARANT DESCRIPTION WEB SCRAPPING PROJECT </h1>
 
-### Context
+## Context
 
 The aim of this project was to scrape the description of the Restaurants at New Port Beach, California. This data was scraped from yelp.com using python programming language
 
-### Key Features
+## Key Features
 
 ```python
 #IMPORTING THE MODULES
@@ -34,6 +34,6 @@ current_page = 0
 count = 0
 ```
 
-### Result:
+## Result:
 <p align="center"> <img src="Gif/ezgif.com-gif-maker.gif" width="800"></p>
 
