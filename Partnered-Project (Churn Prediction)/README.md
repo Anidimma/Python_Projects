@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/3447/3447965.svg?token=exp=1619095259~hmac=8ee4de4b8ce9f513569bee3658c9b12e" width="200" /> </p>
 <h1 align="center"> CHURN PREDICTION PROJECT </h1>
 
-In Collaboration with [Rachael](https://github.com/Bamy-dev)  
+In collaboration with [Rachael](https://github.com/Bamy-dev)  
 
 ## Context
 With the rapid development of telecommunication industry, the service providers are inclined more towards expansion of the subscriber base. To meet the need of surviving in the competitive environment, the retention of existing customers has become a huge challenge. It is stated that the cost of acquiring a new customer is far more than that for retaining the existing one. Therefore, it is imperative for the telecom industries to use advanced analytics to understand consumer behavior and in-turn predict the association of the customers as whether or not they will leave the company.
