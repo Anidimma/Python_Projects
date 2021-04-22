@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/1432/1432235.svg?token=exp=1619131239~hmac=ad592fa8042f95b892a9e0959a66d660" width="200" /> </p>
+<p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/1150/1150313.svg?token=exp=1619131240~hmac=ca1520b13da02f47308d54092d84a5ee" width="200" /> </p>
 <h1 align="center"> WINE QUALITY PREDICTION PROJECT </h1>
 
 
