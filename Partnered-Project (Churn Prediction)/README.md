@@ -50,8 +50,8 @@ sns.set()
 ```
 
 ## Best Performing Model
-[](SourceImages/ChurnExtraTreesTrain.PNG)
-[](SourceImages/ChurnExtraTreesTest.PNG)
+![](SourceImages/ChurnExtraTreesTrain.PNG)
+![](SourceImages/ChurnExtraTreesTest.PNG)
 
 
 
