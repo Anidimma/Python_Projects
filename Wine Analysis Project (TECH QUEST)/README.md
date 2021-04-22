@@ -1,4 +1,4 @@
-
+<p align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=anidimma.visitor-badge" alt="visitors"> </p>
 
 <p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/1150/1150313.svg?token=exp=1619131240~hmac=ca1520b13da02f47308d54092d84a5ee" width="200" /> </p>
 <h1 align="center"> WINE QUALITY PREDICTION PROJECT </h1>
