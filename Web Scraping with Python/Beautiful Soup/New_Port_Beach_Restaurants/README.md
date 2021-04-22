@@ -2,7 +2,7 @@
 
 
 <p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/776/776443.svg?token=exp=1619122772~hmac=43f9df0d34e0ac78e516783fffc8bc60" width="200"> </p>
-<h1 align="center"> RESTUARANT DESCRIPTION WEB SCRAPPING PROJECT </h1>
+<h1 align="center"> RESTUARANT DESCRIPTION WEB SCRAPING PROJECT </h1>
 
 ## Context
 
