@@ -10,7 +10,7 @@ With the rapid development of telecommunication industry, the service providers 
 
 ## Installation
 
-User the package manager ![pip](https://pip.pypa.io/en/stable/) to install [pycaret](https://pycaret.org/)
+User the package manager [pip](https://pip.pypa.io/en/stable/) to install [pycaret](https://pycaret.org/)
 
 ```bash
 !pip install pycaret --quiet
@@ -49,8 +49,8 @@ sns.set()
 ```
 
 ## Best Performing Model
-![](SourceImages/ChurnExtraTreesTrain.PNG)
-![](SourceImages/ChurnExtraTreesTest.PNG)
+[](SourceImages/ChurnExtraTreesTrain.PNG)
+[](SourceImages/ChurnExtraTreesTest.PNG)
 
 
 
