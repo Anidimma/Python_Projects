@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=anidimmavisitor-badge" alt="visitors"> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=anidimma.python_projects" alt="visitors"> </p>
 
 ## A collection of all my projects written in python
 
