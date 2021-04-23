@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=anidimma.visitor-badge" alt="visitors"> </p>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=anidimma.Loan%20Prediction" alt="visitors"> </p>
 
 <p align="center">  <img src="https://www.flaticon.com/svg/vstatic/svg/1907/1907675.svg?token=exp=1619058683~hmac=94f8723ec6c7d1db993a6d6fff2a46ee" width = "200"> </p>
 
