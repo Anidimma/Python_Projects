@@ -1,7 +1,7 @@
 
 
 
-<p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/2519/2519363.svg?token=exp=1619128413~hmac=6b48ed84a75e044d4799c406b2b46173" width="200"> </p>
+<p align="center"> <img src="https://www.flaticon.com/svg/vstatic/svg/1406/1406256.svg?token=exp=1619516989~hmac=ab12e2648c941da479ec7ff333efe100" width="200"> </p>
 <h1 align="center"> PICTURE MINING FROM PIXABAY PROJECT </h1>
 
 ## Context
