@@ -1,7 +1,7 @@
 
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Anidimma/Python_Projects/main/Web%20Scraping%20with%20Python/Beautiful%20Soup/Pixabay/Banner/mining.jpg" width="500"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Anidimma/Python_Projects/main/Web%20Scraping%20with%20Python/Beautiful%20Soup/Pixabay/Banner/mining.jpg" width="200"> </p>
 <h1 align="center"> PICTURE MINING FROM PIXABAY PROJECT </h1>
 
 ## Context
