@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Anidimma/Python_Projects/main/Wine%20Analysis%20Project%20(TECH%20QUEST)/wine.jpg" width="200" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Anidimma/Python_Projects/main/Wine%20Analysis%20Project%20(TECH%20QUEST)/wine.jpg" width="500" /> </p>
 <h1 align="center"> WINE QUALITY PREDICTION PROJECT </h1>
 
 
